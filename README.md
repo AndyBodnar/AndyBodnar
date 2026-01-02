@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Andy%20Bodnar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Andy%20Bodnar&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Entrepreneur%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Phoenix%2C+AZ+%7C+DevCollective+Founder" alt="Typing SVG" /></a>
 
@@ -53,6 +53,7 @@ const andy = {
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -104,6 +105,30 @@ const andy = {
 
 ---
 
+## 3D Contribution Graph
+
+<div align="center">
+
+<a href="https://skyline.github.com/AndyBodnar/2024">
+  <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndyBodnar/AndyBodnar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndyBodnar/AndyBodnar/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/AndyBodnar/AndyBodnar/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
 ## Featured Projects
 
 <div align="center">
@@ -121,6 +146,6 @@ const andy = {
 
 **Open to collaborations and interesting projects**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=100&section=footer&animation=twinkling"/>
 
 </div>
