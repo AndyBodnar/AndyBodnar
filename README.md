@@ -18,17 +18,34 @@
 
 ### About Me
 
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Andy Bodnar";
-    public string Role { get; } = "Full-Stack Developer & Entrepreneur";
-    public string Location { get; } = "Phoenix, AZ";
-    public string Company { get; } = "DevCollective";
-    public string[] Passions { get; } = { "Building Products", "DevOps", "Game Dev" };
-    public string CurrentFocus { get; } = "Scaling SaaS platforms";
-    public string FunFact { get; } = "Also a skilled Upholstery Craftsman";
+```hcl
+# terraform apply -auto-approve
+
+resource "developer" "andy_bodnar" {
+  name        = "Andy Bodnar"
+  role        = "Full-Stack Developer & Entrepreneur"
+  location    = "Phoenix, AZ"
+  company     = "DevCollective"
+  website     = "azdevops.io"
+
+  skills = {
+    languages  = ["TypeScript", "Python", "Rust", "Go", "C#", "C++"]
+    frontend   = ["React", "Next.js", "Vue.js", "Three.js"]
+    backend    = ["Node.js", "FastAPI", ".NET", "PostgreSQL"]
+    devops     = ["AWS", "Docker", "K8s", "Terraform", "CI/CD"]
+  }
+
+  traits = ["Builder", "Problem Solver", "Entrepreneur"]
+
+  availability    = "Open to opportunities"
+  coffee_required = true
+
+  lifecycle {
+    prevent_destroy = true  # Too valuable to delete
+  }
 }
+
+# Output: Senior Engineer ready for deployment ✓
 ```
 
 <br clear="right"/>
