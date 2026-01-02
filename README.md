@@ -18,34 +18,17 @@
 
 ### About Me
 
-```yaml
-openapi: 3.0.0
-info:
-  title: Andy Bodnar API
-  version: "1.0.0"
-  description: Full-Stack Developer & Entrepreneur
-
-paths:
-  /andy:
-    get:
-      summary: Get Developer Info
-      responses:
-        200:
-          description: Success
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  role: Full-Stack Developer & Entrepreneur
-                  location: Phoenix, AZ
-                  company: DevCollective
-                  passions:
-                    - Building Products
-                    - DevOps
-                    - Game Dev
-                  currentFocus: Scaling SaaS platforms
-                  funFact: Also a skilled Upholstery Craftsman
+```csharp
+public class Developer
+{
+    public string Name { get; } = "Andy Bodnar";
+    public string Role { get; } = "Full-Stack Developer & Entrepreneur";
+    public string Location { get; } = "Phoenix, AZ";
+    public string Company { get; } = "DevCollective";
+    public string[] Passions { get; } = { "Building Products", "DevOps", "Game Dev" };
+    public string CurrentFocus { get; } = "Scaling SaaS platforms";
+    public string FunFact { get; } = "Also a skilled Upholstery Craftsman";
+}
 ```
 
 <br clear="right"/>
