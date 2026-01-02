@@ -1,16 +1,20 @@
 <div align="center">
 
-# Hey, I'm Andy Bodnar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Andy%20Bodnar&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descAlignY=55&descAlign=50"/>
 
-**Entrepreneur | Full-Stack Developer | DevOps Engineer**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Phoenix%2C+AZ+%7C+DevCollective+Founder" alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/badge/Azdevops.io-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://azdevops.io)
+<br/>
+
+[![Website](https://img.shields.io/badge/Azdevops.io-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://azdevops.io)
 [![GitHub](https://img.shields.io/badge/AndyBodnar-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndyBodnar)
 [![DevCollective](https://img.shields.io/badge/DevCollective-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://github.com/DevCollective)
 
 </div>
 
 ---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AndyBodnar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="420"/>
 
 ### About Me
 
@@ -24,6 +28,8 @@ const andy = {
     funFact: "Also a skilled Upholstery Craftsman"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -65,7 +71,7 @@ const andy = {
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ### Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
@@ -83,10 +89,38 @@ const andy = {
 
 ---
 
+## GitHub Analytics
+
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndyBodnar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyBodnar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyBodnar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![DevDashboard](https://github-readme-stats.vercel.app/api/pin/?username=AndyBodnar&repo=devdashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/AndyBodnar/devdashboard)
+[![Dispatch Platform](https://github-readme-stats.vercel.app/api/pin/?username=AndyBodnar&repo=dispatch-platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/AndyBodnar/dispatch-platform)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AndyBodnar&style=for-the-badge&color=0d1117&labelColor=161b22)
 
 **Open to collaborations and interesting projects**
 
-📍 Phoenix, AZ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
 
 </div>
