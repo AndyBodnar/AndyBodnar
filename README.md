@@ -18,15 +18,34 @@
 
 ### About Me
 
-```typescript
-const andy = {
-    role: "Full-Stack Developer & Entrepreneur",
-    location: "Phoenix, AZ",
-    company: "DevCollective",
-    passions: ["Building Products", "DevOps", "Game Dev"],
-    currentFocus: "Scaling SaaS platforms",
-    funFact: "Also a skilled Upholstery Craftsman"
-};
+```yaml
+openapi: 3.0.0
+info:
+  title: Andy Bodnar API
+  version: "1.0.0"
+  description: Full-Stack Developer & Entrepreneur
+
+paths:
+  /andy:
+    get:
+      summary: Get Developer Info
+      responses:
+        200:
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  role: Full-Stack Developer & Entrepreneur
+                  location: Phoenix, AZ
+                  company: DevCollective
+                  passions:
+                    - Building Products
+                    - DevOps
+                    - Game Dev
+                  currentFocus: Scaling SaaS platforms
+                  funFact: Also a skilled Upholstery Craftsman
 ```
 
 <br clear="right"/>
